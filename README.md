@@ -1,0 +1,2 @@
+# pankkiautomaattiprojekti
+Harjoitustyönä tehty pankkiautomaatti.
